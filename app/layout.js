@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Glow Up em 30 Dias',
-  description: 'Guia feminino de autoestima'
+  description: 'Guia feminino de autoestima',
 }
 
 export default function RootLayout({ children }) {
